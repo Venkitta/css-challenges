@@ -10,7 +10,7 @@ A collection of pure CSS projects. This repo documents my solutions to Scrimba�
   - These challenges have been great for strengthening my fundamentals. Plus, I can refer these later when I need a quick solution.
 
 🚀 **How to use**
-  Each challenge is contained in its own folder with:
+ - Each challenge is contained in its own folder with:
     - index.html — the markup
     - style.css — the CSS solution
     - sometimes a preview GIF or screenshot
